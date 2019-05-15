@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Cine Engine
 description: Documentation for everything Cine Engine.
-baseurl: "/just-the-docs/" # the subpath of your site, e.g. /blog
-url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://rtfd.cineengine.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -26,8 +26,8 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Cine Engine Home":
+    - "//cineengine.com/"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
