@@ -11,15 +11,13 @@ permalink: /
 
 Cine Engine Studio is the project management, production tracking, media review platform and set of production pipeline tools that teams in the creative industries use to collaborate. 
 
-We connect people, simplify workflows and increase studio efficiency.
+We connect people, simplify workflows and increase studio efficiency.{: .fs-6 .fw-300 }
+
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it in action](https://youtube.com/cineengine){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Solutions 
 
 [RAPTOR]({{ site.baseurl }}{% link docs/configuration.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [LiSSA]({{ site.baseurl }}{% link docs/configuration.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-{: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it in action](https://youtube.com/cineengine){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
