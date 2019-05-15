@@ -15,7 +15,7 @@ We connect people, simplify workflows and increase studio efficiency.
 
 ## Solutions 
 
-[RAPTOR]({{ site.baseurl }}{% link docs/raptor.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [LiSSA]({{ site.baseurl }}{% link docs/lissa.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[RAPTOR]({{ site.baseurl }}{% link docs/configuration.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [LiSSA]({{ site.baseurl }}{% link docs/configuration.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .fs-6 .fw-300 }
 
@@ -43,7 +43,7 @@ It's VFX/Animation Studio Framework made for TDs and Scripters involved in Produ
 
 Hopefully covering everything you might want to ask us?
 
-- [Frequently Asked Questions]({{ site.baseurl }}{% link docs/faq.md %})
+- [Frequently Asked Questions]({{ site.baseurl }}{% link docs/configuration.md %})
 
 ---
 
