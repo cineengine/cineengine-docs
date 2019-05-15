@@ -1,86 +1,67 @@
 ---
 layout: default
-title: Home
+title: Cine Engine Documents' Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Cine Engine is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Focus on creating good visuals
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Cine Engine Studio is the project management, production tracking, media review platform and set of production pipeline tools that teams in the creative industries use to collaborate. 
+
+We connect people, simplify workflows and increase studio efficiency.
+
+## Solutions 
+
+[RAPTOR]({{ site.baseurl }}{% link docs/raptor.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [LiSSA]({{ site.baseurl }}{% link docs/lissa.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it in action](https://youtube.com/cineengine){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 ## Getting started
 
-### Dependencies
+### RAPTOR
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
+RAPTOR (https://cineengine.com/raptor) is is built for Producers and artists alike. View the [RAPTOR's document page]({{ site.baseurl }}{% link docs/raptor.md %}) for more information.
 
-### Quick start: Use as a GitHub Pages remote theme
+- [See Producer's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
+- [See Artists's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+### LiSSA
 
-### Local installation: Use the gem-based theme
+LiSSA is – a linear sequence of specialized Algorithms. Designed to facilitate a smooth pipeline form Asset creation to final renders. 
+It's VFX/Animation Studio Framework made for TDs and Scripters involved in Production Tracking, Asset Management, Workflow and Pipelines used by Production Managers and CG Artists.
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
+<small>LiSSA's documents are still in development. </small>
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+## Frequently Asked Questions
 
-### Configure Just the Docs
+Hopefully covering everything you might want to ask us?
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+- [Frequently Asked Questions]({{ site.baseurl }}{% link docs/faq.md %})
 
 ---
 
 ## About the project
 
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
+Cine Engine is &copy; 2019 by [Dushyant Kashyap](http://dushyant.info).
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+These products are distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+If , please first discuss the change you wish to make via issue,
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/cineengine/cineengine-docs#contributing).
 
 ### Code of Conduct
 
-Just the Docs is committed to fostering a welcoming community.
+Cine Engine is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+[View our Code of Conduct](https://github.com/cineengine/cineengine-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
