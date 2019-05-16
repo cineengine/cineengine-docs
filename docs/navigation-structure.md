@@ -59,23 +59,23 @@ nav_exclude: true
 
 ## Pages with children
 
-Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/ui-components` and `./docs/utilities`. This gives us an organization like:
+Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/LiSSA` and `./docs/RAPTOR`. This gives us an organization like:
 
 ```
 +-- ..
 |-- (Jekyll files)
 |
 |-- docs
-|   |-- ui-components
-|   |   |-- ui-components.md  (parent page)
+|   |-- LiSSA
+|   |   |-- LiSSA.md  (parent page)
 |   |   |-- buttons.md
 |   |   |-- code.md
 |   |   |-- labels.md
 |   |   |-- tables.md
 |   |   +-- typography.md
 |   |
-|   |-- utilities
-|   |   |-- utilities.md      (parent page)
+|   |-- RAPTOR
+|   |   |-- RAPTOR.md      (parent page)
 |   |   |-- color.md
 |   |   |-- layout.md
 |   |   |-- responsive-modifiers.md
@@ -101,11 +101,11 @@ layout: default
 title: UI Components
 nav_order: 2
 has_children: true
-permalink: /docs/ui-components
+permalink: /docs/LiSSA
 ---
 ```
 
-Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
+Here we're setting up the UI Components landing page that is available at `/docs/LiSSA`, which has children and is ordered second in the main nav.
 
 ### Child pages
 {: .text-gamma }
@@ -140,7 +140,7 @@ title: UI Components
 nav_order: 2
 has_children: true
 has_toc: false
-permalink: /docs/ui-components
+permalink: /docs/LiSSA
 ---
 ```
 
