@@ -15,6 +15,18 @@ We connect people, simplify workflows and increase studio efficiency.{: .fs-6 .f
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it in action](https://youtube.com/cineengine){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+## Solutions 
+
+[RAPTOR]({{ site.baseurl }}{% link docs/configuration.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [LiSSA]({{ site.baseurl }}{% link docs/configuration.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+
+
+### LiSSA
+
+LiSSA is – a linear sequence of specialized Algorithms. Designed to facilitate a smooth pipeline form Asset creation to final renders. 
+It's VFX/Animation Studio Framework made for TDs and Scripters involved in Production Tracking, Asset Management, Workflow and Pipelines used by Production Managers and CG Artists.
+
+<small>LiSSA's documents are still in development. </small>
 
 ## Frequently Asked Questions
 
