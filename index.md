@@ -11,9 +11,11 @@ permalink: /
 
 Cine Engine Studio is the project management, production tracking, media review platform and set of production pipeline tools that teams in the creative industries use to collaborate. 
 
-We connect people, simplify workflows and increase studio efficiency.{: .fs-6 .fw-300 }
+We connect people, simplify workflows and increase studio efficiency.
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it in action](https://youtube.com/cineengine){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+{: .fs-6 .fw-300 }
 
 ## Solutions 
 
@@ -22,13 +24,8 @@ We connect people, simplify workflows and increase studio efficiency.{: .fs-6 .f
 ---
 
 ## Getting started
-aa
-### RAPTOR
 
-RAPTOR (https://cineengine.com/raptor) is is built for Producers and artists alike. View the [RAPTOR's document page]({{ site.baseurl }}{% link docs/raptor.md %}) for more information.
 
-- [See Producer's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
-- [See Artists's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
 
 ### LiSSA
 
