@@ -27,6 +27,8 @@ We connect people, simplify workflows and increase studio efficiency.
 
 ### RAPTOR
 
+RAPTOR (https://cineengine.com/raptor) is built for Producers and artists alike. 
+View the [RAPTOR's document page]({{ site.baseurl }}{% link docs/raptor.md %}) for more information.
 
 - [See Producer's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
 - [See Artists's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
