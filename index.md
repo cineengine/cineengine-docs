@@ -58,7 +58,7 @@ These products are distributed by an [MIT license](https://github.com/pmarsceill
 
 ### Contributing
 
-If , please first discuss the change you wish to make via issue,
+If you want to contribute, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/cineengine/cineengine-docs#contributing).
 
 ### Code of Conduct
