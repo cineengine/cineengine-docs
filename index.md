@@ -25,7 +25,11 @@ We connect people, simplify workflows and increase studio efficiency.
 
 ## Getting started
 
+### RAPTOR
 
+
+- [See Producer's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
+- [See Artists's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
 
 ### LiSSA
 
