@@ -19,6 +19,14 @@ We connect people, simplify workflows and increase studio efficiency.{: .fs-6 .f
 
 [RAPTOR]({{ site.baseurl }}{% link docs/configuration.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [LiSSA]({{ site.baseurl }}{% link docs/configuration.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
+---
+
+## Getting started
+
+### RAPTOR
+
+RAPTOR (https://cineengine.com/raptor) is is built for Producers and artists alike. View the [RAPTOR's document page]({{ site.baseurl }}{% link docs/raptor.md %}) for more information.
+
 
 
 ### LiSSA
