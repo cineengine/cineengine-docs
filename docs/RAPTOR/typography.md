@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Typography
-parent: Utilities
+parent: RAPTOR
 nav_order: 4
 ---
 

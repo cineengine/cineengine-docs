@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code
-parent: UI Components
+parent: LiSSA
 nav_order: 6
 ---
 

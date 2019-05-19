@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Color
-parent: Utilities
+parent: RAPTOR
 nav_order: 3
 ---
 

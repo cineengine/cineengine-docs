@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lists
-parent: UI Components
+parent: LiSSA
 nav_order: 5
 ---
 

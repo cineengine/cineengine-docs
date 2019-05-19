@@ -98,7 +98,7 @@ On the parent pages, add 2 YAML front matter parameters:
 ```yaml
 ---
 layout: default
-title: UI Components
+title: LiSSA
 nav_order: 2
 has_children: true
 permalink: /docs/LiSSA
@@ -119,7 +119,7 @@ On child pages, simply set the `parent:` YAML front matter to whatever the paren
 ---
 layout: default
 title: Buttons
-parent: UI Components
+parent: LiSSA
 nav_order: 2
 ---
 ```
@@ -136,7 +136,7 @@ By default, all pages with children will automatically append a Table of Content
 ```yaml
 ---
 layout: default
-title: UI Components
+title: LiSSA
 nav_order: 2
 has_children: true
 has_toc: false
@@ -159,7 +159,7 @@ Child pages can also have children (grandchildren). This is achieved by using a 
 ---
 layout: default
 title: Buttons
-parent: UI Components
+parent: LiSSA
 nav_order: 2
 has_children: true
 ---
@@ -170,7 +170,7 @@ has_children: true
 layout: default
 title: Buttons Child Page
 parent: Buttons
-grand_parent: UI Components
+grand_parent: LiSSA
 nav_order: 1
 ---
 ```
@@ -180,7 +180,7 @@ This would create the following navigation structure:
 ```
 +-- ..
 |
-|-- UI Components
+|-- LiSSA
 |   |-- ..
 |   |
 |   |-- Buttons
