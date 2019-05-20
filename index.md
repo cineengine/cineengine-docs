@@ -50,6 +50,12 @@ Hopefully covering everything you might want to ask us?
 
 ## About the project
 
+Cine Engine is conceived and maintained by Dushyant Kashyap. The idea is to help boutique CG/VFX studios to manage their production and build pipeline efficiently.
+
+We apply software craftmanship principles as much as possible. We love coding and consider that strong quality and good developer experience matter a lot. Our extensive experience allows studios to get better at doing software and focus more on the artistic work.
+
+Visit [Cine Engine](https://cineengine.com/) for more information.
+
 Cine Engine is &copy; 2019 by [Dushyant Kashyap](http://dushyant.info).
 
 ### License
@@ -66,3 +72,5 @@ email, or any other method with the owners of this repository before making a ch
 Cine Engine is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/cineengine/cineengine-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+
+![Cine Engine Logo](assets/images/logo3.jpg)

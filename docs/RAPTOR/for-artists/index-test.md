@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Markdown kitchen sink
-nav_order: 99
+title: Artist Child Page
+parent: for-artists
+grand_parent: RAPTOR
+nav_order: 1
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

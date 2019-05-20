@@ -6,8 +6,10 @@ has_children: true
 permalink: docs/RAPTOR
 ---
 
-# Utilities
+# RAPTOR
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+RAPTOR is a validation tracking app for CG productions. By offering a clean UI and a shared database, it allows you to communicate efficiently with all the shareholders of the production: CG Artists, Production managers, TDs, Supervisors and Clients.
+
+![RAPTOR](../../assets/images/raptor1.svg)
 {: .fs-6 .fw-300 }
