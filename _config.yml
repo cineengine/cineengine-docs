@@ -23,22 +23,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 
 # Enable or disable the site search
 search_enabled: true
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode')
-const cssFile = document.querySelector('[rel="stylesheet"]')
-const originalCssRef = cssFile.getAttribute('href')
-const darkModeCssRef = originalCssRef.replace('just-the-docs.css', 'dark-mode-preview.css')
-
-addEvent(toggleDarkMode, 'click', function(){
-  if (cssFile.getAttribute('href') === originalCssRef) {
-    cssFile.setAttribute('href', darkModeCssRef)
-  } else {
-    cssFile.setAttribute('href', originalCssRef)
-  }
-})
-</script>
 # Aux links for the upper right navigation
 aux_links:
   "Cine Engine Home":
