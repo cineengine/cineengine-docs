@@ -16,4 +16,4 @@ Producer is a validation tracking app for CG productions. By offering a clean UI
 
 {: .fs-6 .fw-300 }
 
-{:toc}
+Follow along to see how it works for a producer.

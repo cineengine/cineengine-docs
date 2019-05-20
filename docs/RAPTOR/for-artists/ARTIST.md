@@ -16,3 +16,4 @@ Artist is a validation tracking app for CG productions. By offering a clean UI a
 
 {: .fs-6 .fw-300 }
 
+Following are the instructions for artists, to use RAPTOR efficiently.
