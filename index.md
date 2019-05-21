@@ -19,7 +19,7 @@ We connect people, simplify workflows and increase studio efficiency.
 
 ## Solutions 
 
-[RAPTOR]({{ site.baseurl }}{% link docs/configuration.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [LiSSA]({{ site.baseurl }}{% link docs/configuration.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[RAPTOR]({{ site.baseurl }}{% link docs/RAPTOR %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [LiSSA]({{ site.baseurl }}{% link docs/LiSSA %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
@@ -33,8 +33,8 @@ Built for Producers and artists alike.
 
 View the [RAPTOR's document page]({{ site.baseurl }}{% link docs/configuration.md %}) for more information.
 
-- [See Producer's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
-- [See Artists's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
+- [See Producer's Guide]({{ site.baseurl }}{% link docs/RAPTOR/PRODUCER %})
+- [See Artists's Guide]({{ site.baseurl }}{% link docs/RAPTOR/ARTIST %})
 
 ### LiSSA
 
@@ -51,9 +51,9 @@ We try to document common queries raised by clients, but please do hesitate to c
 
 ---
 
-## About the project
+## About Cine Engine
 
-We thrive on the idea of helping boutique CG/VFX studios to manage their production and pipeline efficiently.
+Cine Engine thrives on the idea of helping boutique CG/VFX studios to manage their production and pipeline efficiently.
 
 Our solutions are always inline with SOLID Software Design Principles i.e. 
 
