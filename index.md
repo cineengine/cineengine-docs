@@ -38,7 +38,7 @@ View the [RAPTOR's document page]({{ site.baseurl }}{% link docs/configuration.m
 
 ### LiSSA
 
-LiSSA is – a linear sequence of specialized Algorithms. Designed to facilitate a smooth pipeline form Asset creation to final renders. 
+[LiSSA](https://cineengine.com/lissa) is – a linear sequence of specialized Algorithms. Designed to facilitate a smooth pipeline form Asset creation to final renders. 
 It's VFX/Animation Studio Framework made for TDs and Scripters involved in Production Tracking, Asset Management, Workflow and Pipelines used by Production Managers and CG Artists.
 
 <small>LiSSA's documents are still in development. </small>
