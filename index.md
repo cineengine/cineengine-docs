@@ -27,7 +27,10 @@ We connect people, simplify workflows and increase studio efficiency.
 
 ### RAPTOR
 
-[RAPTOR](https://cineengine.com/raptor) is built for Producers and artists alike. 
+Built for Producers and artists alike. 
+
+[RAPTOR](https://cineengine.com/raptor) is the project management, production tracking and media review platform that teams in the creative industries use to collaborate. RAPTOR connects people, simplifies workflows and increases studio efficiency. Collaborate with multiple teams within your company using production-proven tools to ensure your projects reach the finish line on time and on budget.
+
 View the [RAPTOR's document page]({{ site.baseurl }}{% link docs/configuration.md %}) for more information.
 
 - [See Producer's Guide]({{ site.baseurl }}{% link docs/configuration.md %})
