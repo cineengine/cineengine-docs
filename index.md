@@ -19,7 +19,7 @@ We connect people, simplify workflows and increase studio efficiency.
 
 ## Solutions 
 
-[RAPTOR]({{ site.baseurl }}{% link docs/RAPTOR %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [LiSSA]({{ site.baseurl }}{% link docs/LiSSA %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[RAPTOR]({{ site.baseurl }}{% link docs/RAPTOR/RAPTOR.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [LiSSA]({{ site.baseurl }}{% link docs/LiSSA/LiSSA.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
@@ -33,8 +33,8 @@ Built for Producers and artists alike.
 
 View the [RAPTOR's document page]({{ site.baseurl }}{% link docs/configuration.md %}) for more information.
 
-- [See Producer's Guide]({{ site.baseurl }}{% link docs/RAPTOR/PRODUCER %})
-- [See Artists's Guide]({{ site.baseurl }}{% link docs/RAPTOR/ARTIST %})
+- [See Producer's Guide]({{ site.baseurl }}{% link docs/RAPTOR/for-producers/PRODUCER.md %})
+- [See Artists's Guide]({{ site.baseurl }}{% link docs/RAPTOR/for-artists/ARTIST.md %})
 
 ### LiSSA
 
