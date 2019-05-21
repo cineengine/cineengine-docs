@@ -45,7 +45,7 @@ It's VFX/Animation Studio Framework made for TDs and Scripters involved in Produ
 
 ## Frequently Asked Questions
 
-Hopefully covering everything you might want to ask us?
+We try to document common queries raised by clients, but please do hesitate to contact us if you can't find answers to your questions.
 
 - [Frequently Asked Questions]({{ site.baseurl }}{% link docs/configuration.md %})
 
@@ -53,13 +53,21 @@ Hopefully covering everything you might want to ask us?
 
 ## About the project
 
-Cine Engine is conceived and maintained by Dushyant Kashyap. The idea is to help boutique CG/VFX studios to manage their production and build pipeline efficiently.
+We thrive on the idea of helping boutique CG/VFX studios to manage their production and pipeline efficiently.
 
-We apply software craftmanship principles as much as possible. We love coding and consider that strong quality and good developer experience matter a lot. Our extensive experience allows studios to get better at doing software and focus more on the artistic work.
+Our solutions are always inline with SOLID Software Design Principles i.e. 
+
+- Single Responsibility Principle
+- Open/Closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion
+
+Our extensive experience allows studios to have easy time maintianing pipeline and focus more on the artistic work.
 
 Visit [Cine Engine](https://cineengine.com/) for more information.
 
-Cine Engine is &copy; 2019 by [Dushyant Kashyap](http://dushyant.info).
+Cine Engine is conceived, maintained & &copy; 2019 by [Dushyant Kashyap](http://dushyant.info).
 
 ### License
 
